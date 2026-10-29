@@ -1,0 +1,31 @@
+Private email configuration
+/email-config.php
+
+
+Private database configuration
+/db.local.php
+
+Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+Installed dependencies
+/vendor/
+
+Captured network traffic and generated results
+*.pcap
+*.pcapng
+/packet_results.json
+
+Python cache
+pycache/
+*.py[cod]
+
+Operating system files
+Thumbs.db
+.DS_Store
+
+Editor settings
+.vscode/
+.idea/
